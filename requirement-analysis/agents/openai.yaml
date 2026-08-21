@@ -1,0 +1,4 @@
+interface:
+  display_name: "需求分析与研发拆解"
+  short_description: "从需求证据到研发任务、数据库设计、验收测试与变更追踪"
+  default_prompt: "使用 $requirement-analysis 分析这份需求，自动选择模式，并在人工关卡暂停确认。"
